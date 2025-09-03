@@ -1,3 +1,6 @@
-# Auth-MPA - V2
+# Auth-MPA - Credential-OAuth-Session
 
-- Credential-OAuth-Session
+- `pnpm i`
+- Fill in `.env`
+- `pnpm run db:reset`
+- `pnpm run dev`
